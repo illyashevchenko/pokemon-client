@@ -1,0 +1,9 @@
+.idea/
+temp/
+tmp/
+
+node_modules/
+
+reports/
+distrib/
+build/
