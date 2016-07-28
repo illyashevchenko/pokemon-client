@@ -1,5 +1,5 @@
 import angular          from 'angular';
-import componentsModule from 'components';
+import componentsModule from './components';
 
 angular.module('pkApp', [
   componentsModule
