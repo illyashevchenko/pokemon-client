@@ -1,4 +1,6 @@
+import angular from 'angular';
 
 import './styles';
 
-export default '';
+export default angular.module('pkComponents', [
+]).name;
